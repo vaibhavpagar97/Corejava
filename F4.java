@@ -19,7 +19,10 @@ public class F4 {
 		int addition = num1 + num2 ;
 		
 		System.out.println("The addition of above two numbers is " + addition + ".");
-		
+		String word = sc.next();
+		boolean b = sc.nextBoolean();
+		String str = sc.nextLine();
+		double db = sc.nextDouble();
 		
 	}
 
